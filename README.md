@@ -29,12 +29,9 @@
 
 ##  界面预览
 
-> 建议在 `docs/` 目录放置截图，例如：
-> ```
-> ![主界面](docs/screenshot-main.png)
-> ![智能体设置](docs/screenshot-agent.png)
-> ![思考过程](docs/screenshot-reasoning.png)
-> ```
+
+ ![主界面](docs/screenshot.png)
+
 
 ---
 
