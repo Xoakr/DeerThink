@@ -48,5 +48,5 @@
 1. **克隆或下载**
 
    ```bash
-   git clone https://github.com/yourname/deerthink-webui.git
+   git clone https://github.com/Xoakr/DeerThink.git
    cd deerthink-webui
