@@ -4,9 +4,9 @@ declare(strict_types=1);
 // 强制关闭输出缓冲，确保SSE实时推送
 while (@ob_end_clean());
 
-//此处配置API与模型（此Key并非不小心泄露，可以任君使用）
-const OPENAI_API_KEY = 'sk-wnimtcqhxtmgweuxezbozgowtpysiazypomyfhcegioufbzn';
-const OPENAI_BASE_URL = 'https://api.siliconflow.cn/v1';
+
+const OPENAI_API_KEY = 'xx-xxxx';
+const OPENAI_BASE_URL = 'https://api.siliconflow.cn/v1';//硅基流动地址，按需替换
 const MODEL_CONFIG = [
     'chat_default' => 'Qwen/Qwen2.5-7B-Instruct',
     'title_model' => 'Qwen/Qwen2.5-7B-Instruct',
