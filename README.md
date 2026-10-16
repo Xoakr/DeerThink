@@ -30,7 +30,7 @@
 ##  界面预览
 
 
- ![主界面](docs/screenshot.png)
+ ![主界面](./docs/screenshot.png)
 
 
 ---
